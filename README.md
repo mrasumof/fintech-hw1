@@ -48,7 +48,7 @@ Cosmos was created to architect that needed communication and interoperability b
 
 Tendermint abstract the Network and Consensus layers into a generic engine that is fully maintained by the Open Source project. That way, developers can use more time developing the application use cases over spending time in the underlying Blockchain engine. In turn, Tendermint is connected to the application via ABCI, which allows developers to use a good number of programming languages to interact with Tendermint.
 
-[Figure 2](./images/fig3.jpg)
+![Figure 2](./images/fig3.jpg)
 
 This way, Project Cosmos aims to create an ecosystem of Blockchains that naturally communicates with each other. Tackling the next big technological challenge of Blockchain isolation. There are also solutions that allow non-Tendermints Blockchains to interact with Tendermint, so the idea is incorporating other technologies, not creating an isolated ecosystem of blockchains.
 
