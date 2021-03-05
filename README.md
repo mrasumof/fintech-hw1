@@ -58,5 +58,5 @@ Among current users of this technology we have Binance, OKEX, KIRA networks amon
 
 <b>Sources: </b> Cosmos Network (https://cosmos.network/intro)
 
-<b>Author</b>: Martin Rasumoff
+<b>Author</b>: Martin Rasumoff<br>
 <b>Date</b>: 3/5/2021
