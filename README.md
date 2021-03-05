@@ -31,7 +31,7 @@ Transactions are linked with the previous one and with the next one using keys. 
 <b>Architecture Description</b>
 In terms of architecture, we can see that Blockchain is split into 3 separate layers: application, netowrking and consensus.
 
-[Figure 1](https://github.com/mrasumof/fintech-hw1/tree/main/images)
+[Figure 1](./images/fig1.jpg)
 
 The application layer is the one that is in charge of actually processing the transactions. Networking, in turn, is the layer that distributes the transactions and all the required messaging among the nodes. Lastly, and very importantly, the consensus layer is the one that runs in each node and decides if the transaction is valid, and therefore add it to the Blockchain.
 
