@@ -56,7 +56,7 @@ I consider this technology as very promising as it is going to be needed more du
 
 Among current users of this technology we have Binance, OKEX, KIRA networks among another hundred of projects. This area will be addressed by other players in the future as this infrastructure is needed like a car needs a highway.
 
-Sources: Cosmos Network (https://cosmos.network/intro)
+<b>Sources: </b> Cosmos Network (https://cosmos.network/intro)
 
 <b>Author</b>: Martin Rasumoff
 <b>Date</b>: 3/5/2021
