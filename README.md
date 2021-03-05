@@ -1,6 +1,6 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 
-<h2>FinTech Domain</h2>:
+<h2>FinTech Domain</h2>
 
 <b>* Blockchain and Cryptocurrencies</b>
 
@@ -10,17 +10,16 @@ Cosmos Network - https://cosmos.network/</b>
 
 <h2>Project Cosmos Technology</h2> 
 
-* Name of company
-Cosmos Network
+<b>Name of company: </b> Cosmos Network
 
-* When was the company incorporated? * Who are the founders of the company?
+<b>When was the company incorporated? Who are the founders of the company?</b>
 The company is formed by two main parties: the firts one is a non-for-profit ofrganization (NGO) based in Genevan, Switzerland called ICF (Inter-change found).  This NGO was created with the objective of execute the plans of creation of this Internet of Blockchains. This was going to be called as the COSMOS network later. 
 
 Together with ICF, there was a software development company calles "All in Bits", which was also known as Tendermint Inc. This software development company was hired by the ICF in order to develop and deploy the firsts versions of this network.
 
 In 2015, COSMOS co-founders, Ethan Buchman and Jae Kwon started developing Tendermint. This was the implementation of the tools and platforms required for this network of blackchains to inteconnect.  Tendermint, was the first application that used Byzantine Fault Tolerance (BFT) in a world of "Proof of Stake" (PoS) blockchains.
  
-* How did the idea for the company (or project) come about?
+<b>How did the idea for the company (or project) come about?</b>
 Cosmos came to make sure that Blockchains can talk to each other, keeping the consistency (no double-spend problem) as well as the descentralization of storing and processing of transactions.
 
 In order to understand this, we need first to understand a little bit of what is Blockchain technology. Broadly speaking, Blockchain was first created in 2018 (Bitcoin Blockchain) and is a set of technologies that allow to have a ledger-type data structure  (credits-debits) in a decentralized and consistent way. Blockchain data structure (the "ledger") is immutable, meaning that can not be changed. 
@@ -32,7 +31,7 @@ Transactions are linked with the previous one and with the next one using keys. 
 <b>Architecture Description</b>
 In terms of architecture, we can see that Blockchain is split into 3 separate layers: application, netowrking and consensus.
 
-[Figure 1](./images/fig1.jpg)
+[Figure 1](https://github.com/mrasumof/fintech-hw1/images/fig1.jpg")
 
 The application layer is the one that is in charge of actually processing the transactions. Networking, in turn, is the layer that distributes the transactions and all the required messaging among the nodes. Lastly, and very importantly, the consensus layer is the one that runs in each node and decides if the transaction is valid, and therefore add it to the Blockchain.
 
